@@ -17,7 +17,7 @@
     android:onClick="setContentView">
 
     <EditText
-        android:id="@+id/edit_query"
+       android:id="@+id/edit_message"
         android:layout_width="0dp"
         android:hint="@string/edit_message"
         android:maxLines="1"
